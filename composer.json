@@ -16,7 +16,8 @@
   ],
   "require": {
     "php": "^8.0.0",
-    "symfony/console": "^6.0.9"
+    "symfony/console": "^6.0.9",
+    "laravel/framework": "10.x-dev"
   },
   "autoload": {
     "psr-4": {

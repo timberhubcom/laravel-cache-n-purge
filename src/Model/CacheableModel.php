@@ -1,5 +1,7 @@
 <?php
 
+namespace Timberhub\CacheNPurge;
+
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Facades\Cache;
 
